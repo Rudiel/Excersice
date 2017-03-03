@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Excersice</string>
+
+    <string name="detail_title">PRODUCT DETAILS</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_price">Price</string>
+    <string name="detail_date">Available Date</string>
+    <string name="detail_shipping">Shipping</string>
+    <string name="detail_categories">Categories</string>
+
+</resources>
